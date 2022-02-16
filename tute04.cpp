@@ -39,5 +39,5 @@ long Factorial(int no)
 }
 long nCr(int n, int r)
 {
-   
+   return ;
 }
