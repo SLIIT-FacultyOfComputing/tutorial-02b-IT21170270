@@ -37,11 +37,6 @@ long Factorial(int no)
   }
   return fac ;
 }
-long nCr(int n, int r)
-{
-   return ;
-}
-
 long nCr(int n, int r) 
 {
     long cnr = 0;
